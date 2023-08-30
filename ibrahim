@@ -1,0 +1,35 @@
+<html>
+
+<body>
+  <img src="Photo/Homes.jpg" width="100%">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <style>
+    .container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .image {
+      margin-right: 10px;
+    }
+  </style>
+  </head>
+</body>
+
+<body>
+  <div class="container">
+    <img class="image" src="Photo/Our Way.png" width="18%">
+    <p>
+    <h4>Salam, mənim adım İbrahimdir. 2009-cu ildə <br>anadan olmuşam. Hal-hazırda 8-ci sinif tələbəsiyəm<br> Bu saytı
+      özümü proqramlaşdırma bacarığımı inkişaf<br> etdirmək üçün hazırlayıram.</h4>
+    </p>
+  </div>
+
+</body>
+
+</html>
